@@ -1,0 +1,13 @@
+C:\Users\MZ\source\repos\SqlDataAccessDemo\bin\Debug\SqlDataAccessDemo.exe.config
+C:\Users\MZ\source\repos\SqlDataAccessDemo\bin\Debug\SqlDataAccessDemo.exe
+C:\Users\MZ\source\repos\SqlDataAccessDemo\bin\Debug\SqlDataAccessDemo.pdb
+C:\Users\MZ\source\repos\SqlDataAccessDemo\bin\Debug\Dapper.dll
+C:\Users\MZ\source\repos\SqlDataAccessDemo\bin\Debug\Dapper.xml
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\SqlDataAccessDemo.Dashboard.resources
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\SqlDataAccessDemo.Properties.Resources.resources
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\SqlDataAccessDemo.exe
+C:\Users\MZ\source\repos\SqlDataAccessDemo\obj\Debug\SqlDataAccessDemo.pdb
